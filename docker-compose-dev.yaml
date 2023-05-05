@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+
+    docker-python:
+        container_name: docker-python
+        build: .
+        command: >
+            bash -c 'echo "Python version $(python3 --version)"'
