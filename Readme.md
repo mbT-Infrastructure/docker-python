@@ -1,6 +1,6 @@
 # Pyhton image
 
-This Docker image contains a Python install
+This Docker image contains a Python install.
 
 
 ## Development
